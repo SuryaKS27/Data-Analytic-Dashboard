@@ -38,11 +38,40 @@ Seaborn
 ### Clone the Repository
 
 ```bash
-  git clone https://github.com/SuryaKS27/SMARTDRIVE_YOLOv8.git
+   git clone https://github.com/SuryaKS27/Data-Analytic-Dashboard.git
 ```
 ###  Install Required Dependencies
 
 ```bash
   pip install -r requirements.txt
 ```
+
+## Usage
+
+#### To start the Streamlit application, run:
+
+```bash
+  streamlit run app.py
+```
+
+## File upload
+
+Use the file upload feature to upload your dataset in CSV, Excel, or JSON format. The dashboard will automatically display options to explore and visualize your data.
+
+## Data exploration and visualization
+
+Overview: Provides a summary of the dataset's structure.
+
+Descriptive Statistics: Displays statistical summaries for numerical columns.
+
+Visualizations: Offers various plotting options to understand data distributions and relationships.
+
+Correlation Matrix: Visualizes the correlation between numerical features.
+
+Missing Values: Identifies and handles missing values.
+
+## Author
+
+- [@Surya K S ](https://github.com/SuryaKS27/)
+
 

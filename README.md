@@ -70,6 +70,16 @@ Correlation Matrix: Visualizes the correlation between numerical features.
 
 Missing Values: Identifies and handles missing values.
 
+## Note
+
+Customise the code according to your dataset. Here I have used the Kaggle's dataset and customized as of my need.
+
+The original dataset:
+
+```bash
+   https://www.kaggle.com/datasets/saurabhbagchi/dish-network-hackathon
+```
+
 ## Author
 
 - [@Surya K S ](https://github.com/SuryaKS27/)
